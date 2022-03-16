@@ -50,4 +50,13 @@
 |which|파일 위치 검색|-|
 <br>
 
+#### 컴파일러
+컴파일: 작성한 프로그램을 기계어로 변환하는 과정
+> 프로그램 작성 &#8594; 컴파일 &#8594; 라이브러리 링크 &#8594; 실행파일
+
+GNU C 컴파일러: gcc
+|형식|gcc[옵션][파일명]|
+|:--:|:--:|
+|옵션|-c : 오브젝트 파일(.o)만 생성<br>-o 실행 파일명 : 지정한 이름으로 실행 파일 생성|
+
 참고 사이트 [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
