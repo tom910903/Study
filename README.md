@@ -59,4 +59,21 @@ GNU C 컴파일러: gcc
 |:--:|:--:|
 |옵션|-c : 오브젝트 파일(.o)만 생성<br>-o 실행 파일명 : 지정한 이름으로 실행 파일 생성|
 
+
+#### Makefile/make
+Makefile은 컴파일 명령, 컴파일 방법, 링크할 파일, 실행 파일명등을 설정하는 파일.  
+make 명령은 Makefile을 읽고 파일에서 지정한 대로 컴파일을 실행함.
+
+// TO-DO : Makefile 명령어 정리
+
+#### 오류 처리 함수
+기본적으로 시스템 함수는 오류 발생시 -1을 return.  
+라이브러리 함수는 오류 발생시 NULL을 return.
+
+perror(),strerror() 함수는 오류 코드를 메시지로 변환해 출력 함.
+|perror() : 에러 메시지를 표준 출력으로 출력함|
+|:--|
+|strerror() : 에러 메시지를 return함|
+
+
 참고 사이트 [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
