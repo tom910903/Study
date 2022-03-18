@@ -71,9 +71,21 @@ make 명령은 Makefile을 읽고 파일에서 지정한 대로 컴파일을 실
 라이브러리 함수는 오류 발생시 NULL을 return.
 
 perror(),strerror() 함수는 오류 코드를 메시지로 변환해 출력 함.
-|perror() : 에러 메시지를 표준 출력으로 출력함|
-|:--|
-|strerror() : 에러 메시지를 return함|
+|perror()|에러 메시지를 표준 출력으로 출력함|
+|--|--|
+|strerror()|에러 메시지를 return함|  
+
+#### 메모리 할당
+
+|void *malloc(size_t size)|size만큼의 메모리를 할당|
+|--|--|
+|void *calloc(size_t nmemb, size_t size)|nmemb * size만큼의 메모리를 할당함|
+|void *realloc(void *ptr, size_t size)|할당 받은 메모리에 추가로 메모리를 할당함<br>이전 메모리와 추가 메모리의 합친 크기의 메모리를 할당하고 그 주소에 이전 메모리의 내용을 복사|
+
+#### 명령행 인자
+int main(int argc, char *argv[])  
+argc - 명령과 인자를 포함한 개수(argv 배열의 크기)  
+argv - 명령과 각 인자를 담고있는 배열
 
 
 참고 사이트 [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
