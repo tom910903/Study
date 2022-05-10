@@ -5,4 +5,5 @@
 [1장. **기본 명령어**](document/1.Basic_Command.md)  
 [2장. **디렉터리**](document/2.Directory.md)  
 [3장. **파일**](document/3.File.md)  
-[4장. **파일 입출력**](document/4.File_IO.md)
+[4장. **파일 입출력**](document/4.File_IO.md)  
+[5장. **시스템 정보**](document/5.System_Info.md)
