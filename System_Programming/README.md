@@ -8,7 +8,8 @@
 [4장. **파일 입출력**](document/4.File_IO.md)  
 [5장. **시스템 정보**](document/5.System_Info.md)  
 [6장. **프로세스 정보**](document/6.Process_Info.md)  
-[7장. **프로세스 생성과 실행**](document/7.Process_Create_Execute.md)
+[7장. **프로세스 생성과 실행**](document/7.Process_Create_Execute.md)  
+[8장. **시그널**](document/8.Signal.md)
 
 
 참고 : 시스템 프로그래밍 리눅스 & 유닉스 (한빛아카데미)
