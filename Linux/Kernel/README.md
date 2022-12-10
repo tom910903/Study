@@ -1,4 +1,4 @@
 # Linux Kernel
 
 ## 목차
-[0장. **리눅스 설치**](document/0.Install_Linux.md)  
+[0장. **Linux Kernel**](document/0.What_is_kernel.md)  
