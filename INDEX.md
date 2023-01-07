@@ -1,8 +1,8 @@
 # Study
 
-[**1. Linux**](Linux/README.md)  
-[**2. Yocto**](Etc/Yocto/README.md)  
-[**3. ARM Architeture**](Etc/Arm/README.md)  
+[**1. Linux**](Linux/INDEX.md)  
+[**2. Yocto**](Etc/Yocto/INDEX.md)  
+[**3. ARM Architeture**](Etc/Arm/INDEX.md)  
 
 
 
