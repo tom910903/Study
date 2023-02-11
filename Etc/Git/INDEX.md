@@ -8,4 +8,5 @@
 [4장. **분산 환경에서의 Git**](documents/4.Distributed_Environment.md)  
 [4장. **Git 도구**](documents/5.Git_tools.md)  
 
-참고 : Pro Git 2판 (인사이트)
+참고 : Pro Git 2판 (인사이트)  
+https://git-scm.com/book/ko/v2
