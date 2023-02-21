@@ -2,7 +2,8 @@
 
 [**1. Linux**](Linux/INDEX.md)  
 [**2. Yocto**](Etc/Yocto/INDEX.md)  
-[**3. ARM Architeture**](Etc/Arm/INDEX.md)  
+[**3. Git**](Etc/Git/INDEX.md)  
+[**4. ARM Architeture**](Etc/Arm/INDEX.md)  
 
 
 
