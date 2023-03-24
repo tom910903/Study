@@ -6,7 +6,7 @@
 [2장. **Yocto 프로젝트 시작하기**](documents/2.Getting_Started.md)  
 [3장. **Bitbake 순서**](documents/3.Bitbake_Process.md)  
 [4장. **Yocto 프로젝트 커스터마이징**](documents/4.Customizing_the_Yocto_Project.md)  
-[5장. **Yocto 프로젝트 이미지 배포**](documents/5.Deploying_Yocto_Project_images.md)
+[5장. **Yocto 프로젝트 더 알아보기**](documents/5.Advanced_Topics_in_Yocto_Project.md)
 
 참고  
 * 욕토 프로젝트로 시작하는 임베디드 리눅스 시스템 (에이콘)  
